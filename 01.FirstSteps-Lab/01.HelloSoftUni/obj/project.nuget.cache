@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Maumt3+Lvq/NmXww24pnICxfLNDot1FFy38jimkRisjmpT7oFk94wMTNhYEVY752ECfSo/tTJJ4bOyHHD3xsOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\01.HelloSoftUni\\01.HelloSoftUni.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
