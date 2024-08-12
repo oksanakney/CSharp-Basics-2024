@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{44648D71-FB4D-49F0-8603-43353C3261D4}|09.YardGreening\\09.YardGreening.csproj|c:\\users\\acer\\source\\repos\\csharp-basics-2024\\01.firststeps-lab\\09.yardgreening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44648D71-FB4D-49F0-8603-43353C3261D4}|09.YardGreening\\09.YardGreening.csproj|solutionrelative:09.yardgreening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F1D638-BBDB-4538-9EB1-2EE7DC612629}|08.PetShop\\08.PetShop.csproj|c:\\users\\acer\\source\\repos\\csharp-basics-2024\\01.firststeps-lab\\08.petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F1D638-BBDB-4538-9EB1-2EE7DC612629}|08.PetShop\\08.PetShop.csproj|solutionrelative:08.petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE360D2-92AB-4008-A2DC-DC2EFD2EC644}|07.ProjectsCreation\\07.ProjectsCreation.csproj|c:\\users\\acer\\source\\repos\\csharp-basics-2024\\01.firststeps-lab\\07.projectscreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE360D2-92AB-4008-A2DC-DC2EFD2EC644}|07.ProjectsCreation\\07.ProjectsCreation.csproj|solutionrelative:07.projectscreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904AD41A-5A95-414F-A3C4-44A10EF89E11}|06.ConcatenateData\\06.ConcatenateData.csproj|c:\\users\\acer\\source\\repos\\csharp-basics-2024\\01.firststeps-lab\\06.concatenatedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904AD41A-5A95-414F-A3C4-44A10EF89E11}|06.ConcatenateData\\06.ConcatenateData.csproj|solutionrelative:06.concatenatedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC381E0-FB97-4A0A-BA32-A56095205AFD}|05.GreetingByName\\05.GreetingByName.csproj|c:\\users\\acer\\source\\repos\\csharp-basics-2024\\01.firststeps-lab\\05.greetingbyname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC381E0-FB97-4A0A-BA32-A56095205AFD}|05.GreetingByName\\05.GreetingByName.csproj|solutionrelative:05.greetingbyname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3983A39-7F5D-4B49-8FC8-D2E830150B0A}|01.HelloSoftUni\\01.HelloSoftUni.csproj|c:\\users\\acer\\source\\repos\\csharp-basics-2024\\01.firststeps-lab\\01.hellosoftuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3983A39-7F5D-4B49-8FC8-D2E830150B0A}|01.HelloSoftUni\\01.HelloSoftUni.csproj|solutionrelative:01.hellosoftuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC5BAA8-ED9E-4846-886E-9D4C05C1319F}|02.Numbers-1-10\\02.Numbers-1-10.csproj|c:\\users\\acer\\source\\repos\\csharp-basics-2024\\01.firststeps-lab\\02.numbers-1-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC5BAA8-ED9E-4846-886E-9D4C05C1319F}|02.Numbers-1-10\\02.Numbers-1-10.csproj|solutionrelative:02.numbers-1-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9005CCC-EA3B-4930-BE0D-4ABC93DE678C}|03.RectangeArea\\03.RectangeArea.csproj|c:\\users\\acer\\source\\repos\\csharp-basics-2024\\01.firststeps-lab\\03.rectangearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9005CCC-EA3B-4930-BE0D-4ABC93DE678C}|03.RectangeArea\\03.RectangeArea.csproj|solutionrelative:03.rectangearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24995803-2CAE-4B3B-A9BC-10757E636E17}|04.InchesToCm\\04.InchesToCm.csproj|c:\\users\\acer\\source\\repos\\csharp-basics-2024\\01.firststeps-lab\\04.inchestocm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24995803-2CAE-4B3B-A9BC-10757E636E17}|04.InchesToCm\\04.InchesToCm.csproj|solutionrelative:04.inchestocm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +60,115 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\09.YardGreening\\Program.cs",
+              "RelativeDocumentMoniker": "09.YardGreening\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\09.YardGreening\\Program.cs*",
+              "RelativeToolTip": "09.YardGreening\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:29:23.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\08.PetShop\\Program.cs",
+              "RelativeDocumentMoniker": "08.PetShop\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\08.PetShop\\Program.cs",
+              "RelativeToolTip": "08.PetShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:29:02.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\07.ProjectsCreation\\Program.cs",
+              "RelativeDocumentMoniker": "07.ProjectsCreation\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\07.ProjectsCreation\\Program.cs",
+              "RelativeToolTip": "07.ProjectsCreation\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:28:38.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\06.ConcatenateData\\Program.cs",
+              "RelativeDocumentMoniker": "06.ConcatenateData\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\06.ConcatenateData\\Program.cs",
+              "RelativeToolTip": "06.ConcatenateData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:28:12.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\05.GreetingByName\\Program.cs",
+              "RelativeDocumentMoniker": "05.GreetingByName\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\05.GreetingByName\\Program.cs",
+              "RelativeToolTip": "05.GreetingByName\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:27:45.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\04.InchesToCm\\Program.cs",
+              "RelativeDocumentMoniker": "04.InchesToCm\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\04.InchesToCm\\Program.cs",
+              "RelativeToolTip": "04.InchesToCm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:24:16.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\03.RectangeArea\\Program.cs",
+              "RelativeDocumentMoniker": "03.RectangeArea\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\03.RectangeArea\\Program.cs",
+              "RelativeToolTip": "03.RectangeArea\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:20:42.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\02.Numbers-1-10\\Program.cs",
+              "RelativeDocumentMoniker": "02.Numbers-1-10\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\02.Numbers-1-10\\Program.cs",
+              "RelativeToolTip": "02.Numbers-1-10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:04:32.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\01.HelloSoftUni\\Program.cs",
               "RelativeDocumentMoniker": "01.HelloSoftUni\\Program.cs",
               "ToolTip": "C:\\Users\\ACER\\source\\repos\\CSharp-Basics-2024\\01.FirstSteps-Lab\\01.HelloSoftUni\\Program.cs",
               "RelativeToolTip": "01.HelloSoftUni\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T11:31:20.001Z",
               "EditorCaption": ""

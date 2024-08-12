@@ -1,0 +1,15 @@
+*.vsidx 
+*.v2
+*.suo
+*.json
+*.bin
+*.sln
+*.cache
+*.targets
+*.props
+.NET*
+obj*
+*.exe
+*.dll
+*.pdb
+*.csproj
